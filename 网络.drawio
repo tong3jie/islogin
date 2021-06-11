@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T08:16:09.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="tBIb17bEAtE9vAziKCyt" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T08:57:36.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="lxXdIProm5dVQbG7B2dI" version="14.7.6" type="github">
   <diagram id="G6n_RN8hPcjFfGTwde5l" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,16 +100,16 @@
         <mxCell id="Mq0KSwzrodGalVTR2X-r-47" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="483" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mq0KSwzrodGalVTR2X-r-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mq0KSwzrodGalVTR2X-r-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="178" y="380" width="55" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Mq0KSwzrodGalVTR2X-r-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mq0KSwzrodGalVTR2X-r-54" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="265" y="380" width="58" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Mq0KSwzrodGalVTR2X-r-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mq0KSwzrodGalVTR2X-r-55" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="353" y="380" width="56" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Mq0KSwzrodGalVTR2X-r-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mq0KSwzrodGalVTR2X-r-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="439" y="380" width="57" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Mq0KSwzrodGalVTR2X-r-57" value="Pod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
